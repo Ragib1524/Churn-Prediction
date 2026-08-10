@@ -1,5 +1,5 @@
 
-Customer Churn Prediction 📊
+Customer Retention Predictor 📊
 
 🚀 Overview
 
